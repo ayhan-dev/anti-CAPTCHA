@@ -1,6 +1,6 @@
 # anti-CAPTCHA
 
-  - Solve Google reCAPTCHA less than 5 seconds! 
+  - Solve Google reCAPTCHA less than 5 seconds! (Test sample)
 
   - This is a Python script to solve Google reCAPTCHA using the DrissionPage library. Selenium implementation will be added soon.
 
