@@ -11,7 +11,7 @@
 2- sudo apt install virtualenv                                                   
 3- virtualenv ayhan
 4- source ayhan/bin/activate   
-5- pip install -r requirements.txt  
+5- pip install -r req.txt  
 ```
 
 ## Usage
